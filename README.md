@@ -1,2 +1,2 @@
-# AppCotizaci-n1
+# AppCotizacion1
 Ejemplo de uso de clases con polimorfisamo, encapsulamiento
